@@ -1,4 +1,4 @@
-This is the official implementation for [Revisiting Link Prediction: A Data Perspective]([https://proceedings.neurips.cc/paper_files/paper/2023/file/74f1edadbdf495e7258ee8db7b1d3acd-Paper-Conference.pdf](https://arxiv.org/pdf/2310.00793)) accepted by ICLR'24. A summary can be found at [here]([https://haitaomao.github.io/categories/ResearchSummary/#section134](https://haitaomao.github.io/categories/ResearchSummary/#section131)).
+This is the official implementation for [Revisiting Link Prediction: A Data Perspective](https://arxiv.org/pdf/2310.00793) accepted by ICLR'24. A summary can be found at [here]([https://haitaomao.github.io/categories/ResearchSummary/#section134](https://haitaomao.github.io/categories/ResearchSummary/#section131)).
 
 
 
