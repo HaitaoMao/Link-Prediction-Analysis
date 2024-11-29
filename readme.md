@@ -1,4 +1,8 @@
-# Revisiting Link Predition: A Data Perspective
+This is the official implementation for [Revisiting Link Prediction: A Data Perspective]([https://proceedings.neurips.cc/paper_files/paper/2023/file/74f1edadbdf495e7258ee8db7b1d3acd-Paper-Conference.pdf](https://arxiv.org/pdf/2310.00793)) accepted by ICLR'24. A summary can be found at [here]([https://haitaomao.github.io/categories/ResearchSummary/#section134](https://haitaomao.github.io/categories/ResearchSummary/#section131)).
+
+
+
+## Abstract
 
 Link prediction, a fundamental task on graphs, has proven indispensable in various applications, e.g., friend recommendation, protein analysis, and drug interaction prediction. However, since datasets span a multitude of domains, they could have distinct underlying mechanisms of link formation. Evidence in existing literature underscores the absence of a universally best algorithm suitable for all datasets. In this paper, we endeavor to explore principles of link prediction across diverse datasets from a data-centric perspective. We recognize three fundamental factors critical to link prediction: local structural proximity, global structural proximity, and feature proximity. We then unearth relationships among those factors where (i) global structural proximity only shows effectiveness when local structural proximity is deficient. (ii) The incompatibility can be found between feature and structural proximity. Such incompatibility leads to GNNs for Link Prediction (GNN4LP) consistently underperforming on edges where the feature proximity factor dominates. Inspired by these new insights from a data perspective, we offer practical instruction for GNN4LP model design and guidelines for selecting appropriate benchmark datasets for more comprehensive evaluations.
 
